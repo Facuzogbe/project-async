@@ -1,3 +1,6 @@
+// una promesa tiene 3 estados
+//pending , resolver, y reject === rechazado.
+
 const promise = new Promise(function(resolve, reject) {
     resolve ('hey!')
 })
