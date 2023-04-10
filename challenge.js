@@ -36,7 +36,7 @@
 
 
 /////////////////////////////////////////////////////////////////////////
-// Este código es una función que utiliza la biblioteca "node-fetch" para obtener datos de una API. Aquí está lo que hace el código paso a paso:
+// en este codigo se importa la biblioteca "node-fetch" para obtener datos de una API. explicacion paso a paso del codigo:
 
 // 1)Importa la biblioteca "node-fetch".
 // 2)Define una constante API que contiene la URL base de la API.
